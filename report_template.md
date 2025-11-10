@@ -1,4 +1,4 @@
-# Informe (1 página) – Activity 1
+# Activity 1
 
 **Integrantes:** Samuel Caceres 
 **Curso:** Data Mining – Universidad de la Costa  
