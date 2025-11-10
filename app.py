@@ -21,7 +21,7 @@ with st.expander("About this dashboard"):
     st.write(
         """
         This dashboard summarizes student applications, admissions, enrollment, retention and satisfaction across years and terms.
-        Use the filters in the sidebar to explore specific years, terms, and departments.
+        Use the filters in the sidebar to explore specific years, terms, and departments. By Samuel Caceres.
         """
     )
 
