@@ -9,7 +9,6 @@ This project is part of Activity 1 – Data Visualization and Dashboard Deployme
 - `university_student_data.csv`: Dataset used in the dashboard.
 - `requirements.txt`: Python dependencies for deployment (Streamlit Cloud reads this).
 - `colab_notebook.ipynb`: Google Colab starter notebook for EDA and plots.
-- `report_template.md`: 1-page report template for your findings + links.
 
 ## Overview
 
