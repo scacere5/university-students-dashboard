@@ -1,7 +1,8 @@
 
 # University Students Dashboard
 
-An interactive Streamlit dashboard that summarizes university admissions, enrollment, retention, and satisfaction over time.
+An interactive Streamlit dashboard that visualizes key university performance metrics — applications, admissions, enrollment, retention, and student satisfaction — over time.
+This project is part of Activity 1 – Data Visualization and Dashboard Deployment.
 
 ## Files
 - `app.py`: Streamlit app source code.
@@ -10,11 +11,17 @@ An interactive Streamlit dashboard that summarizes university admissions, enroll
 - `colab_notebook.ipynb`: Google Colab starter notebook for EDA and plots.
 - `report_template.md`: 1-page report template for your findings + links.
 
-## Local run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+## Overview
+
+This dashboard enables users to explore institutional data using interactive filters for Year, Term (Spring/Fall), and Department.
+It provides both summary indicators (KPIs) and visual insights to better understand trends and performance across semesters.
+
+Key visualizations include:
+
+📈 Retention Rate Trends over the years
+📊 Student Satisfaction Scores by academic year
+🔄 Spring vs Fall Enrollment Comparison
+🥧 Department Enrollment Distribution (Engineering, Business, Arts, Science)
 
 ## How to deploy on Streamlit Cloud
 1. Push these files to a **public GitHub repository** (top level of the repo).
@@ -27,5 +34,5 @@ streamlit run app.py
 ## Data
 The app reads `university_student_data.csv` in the repo root. If you rename or move it, update the path inside `app.py`.
 
-## Team
+## Only member
 Samuel Caceres 
