@@ -13,5 +13,5 @@
 - Recomendación concreta para mejorar **admisión** o **retención**, basada en los datos.
 
 ## Enlaces de entrega
-- **Repositorio GitHub:** <URL-del-repo>
-- **Dashboard en Streamlit Cloud:** <URL-del-deployment>
+- **Repositorio GitHub:** https://github.com/scacere5/university-students-dashboard.git
+- **Dashboard en Streamlit Cloud:** https://university-students-dashboard-bardjk4zary59drkyyn5cz.streamlit.app
